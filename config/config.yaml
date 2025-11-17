@@ -79,6 +79,10 @@ weight:
 platforms:
   - id: "toutiao"
     name: "今日头条"
+  - id: "steam"
+    name: "steam"
+  - id: "ithome"
+    name: "IT之家"
   - id: "baidu"
     name: "百度热搜"
   - id: "wallstreetcn-hot"
